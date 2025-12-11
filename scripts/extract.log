@@ -1,0 +1,30 @@
+2025-12-11 11:40:24 [INFO] Fetching data for Delhi (lat=28.7041, lon=77.1025)
+2025-12-11 11:40:26 [INFO] Saved data for Delhi: data/raw\Delhi_raw_20251211_114026.json
+2025-12-11 11:40:26 [INFO] Fetching data for Mumbai (lat=19.076, lon=72.8777)
+2025-12-11 11:40:27 [INFO] Saved data for Mumbai: data/raw\Mumbai_raw_20251211_114027.json
+2025-12-11 11:40:27 [INFO] Fetching data for Bengaluru (lat=12.9716, lon=77.5946)
+2025-12-11 11:40:28 [INFO] Saved data for Bengaluru: data/raw\Bengaluru_raw_20251211_114028.json
+2025-12-11 11:40:28 [INFO] Fetching data for Hyderabad (lat=17.385, lon=78.4867)
+2025-12-11 11:40:29 [INFO] Saved data for Hyderabad: data/raw\Hyderabad_raw_20251211_114029.json
+2025-12-11 11:40:29 [INFO] Fetching data for Kolkata (lat=22.5726, lon=88.3639)
+2025-12-11 11:40:31 [INFO] Saved data for Kolkata: data/raw\Kolkata_raw_20251211_114031.json
+2025-12-11 13:26:16 [INFO] Fetching data for Delhi (lat=28.7041, lon=77.1025)
+2025-12-11 13:26:18 [INFO] Saved data for Delhi: data/raw\Delhi_raw_20251211_132618.json
+2025-12-11 13:26:18 [INFO] Fetching data for Mumbai (lat=19.076, lon=72.8777)
+2025-12-11 13:26:19 [INFO] Saved data for Mumbai: data/raw\Mumbai_raw_20251211_132619.json
+2025-12-11 13:26:19 [INFO] Fetching data for Bengaluru (lat=12.9716, lon=77.5946)
+2025-12-11 13:26:22 [INFO] Saved data for Bengaluru: data/raw\Bengaluru_raw_20251211_132622.json
+2025-12-11 13:26:22 [INFO] Fetching data for Hyderabad (lat=17.385, lon=78.4867)
+2025-12-11 13:26:23 [INFO] Saved data for Hyderabad: data/raw\Hyderabad_raw_20251211_132623.json
+2025-12-11 13:26:23 [INFO] Fetching data for Kolkata (lat=22.5726, lon=88.3639)
+2025-12-11 13:26:25 [INFO] Saved data for Kolkata: data/raw\Kolkata_raw_20251211_132625.json
+2025-12-11 13:49:36 [INFO] Fetching data for Delhi (lat=28.7041, lon=77.1025)
+2025-12-11 13:49:37 [INFO] Saved data for Delhi: data/raw\Delhi_raw_20251211_134937.json
+2025-12-11 13:49:37 [INFO] Fetching data for Mumbai (lat=19.076, lon=72.8777)
+2025-12-11 13:49:38 [INFO] Saved data for Mumbai: data/raw\Mumbai_raw_20251211_134938.json
+2025-12-11 13:49:38 [INFO] Fetching data for Bengaluru (lat=12.9716, lon=77.5946)
+2025-12-11 13:49:39 [INFO] Saved data for Bengaluru: data/raw\Bengaluru_raw_20251211_134939.json
+2025-12-11 13:49:39 [INFO] Fetching data for Hyderabad (lat=17.385, lon=78.4867)
+2025-12-11 13:49:40 [INFO] Saved data for Hyderabad: data/raw\Hyderabad_raw_20251211_134940.json
+2025-12-11 13:49:40 [INFO] Fetching data for Kolkata (lat=22.5726, lon=88.3639)
+2025-12-11 13:49:41 [INFO] Saved data for Kolkata: data/raw\Kolkata_raw_20251211_134941.json
